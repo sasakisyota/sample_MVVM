@@ -7,11 +7,10 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ModalViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        navigationItem.title = "画面2"
         view.backgroundColor = .green
     }
 }
